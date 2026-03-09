@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Technoblade",
-    "password": "whattheduck",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Glorysmp-Gei0.aternos.me",
-    "port":39896,
+    "port": 39896,
     "version": "1.21.1"
   },
   "position": {
