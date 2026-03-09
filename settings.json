@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "Danarch's Pawn [AFK BOT]",
+    "password": "whattheduck",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "Glorysmp-Gei0.aternos.me",
+    "port": 39896,
     "version": "1.21.1"
   },
   "position": {
